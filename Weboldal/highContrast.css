@@ -1,0 +1,37 @@
+body{
+font-size: 150% ;
+}
+p{
+    color: red !important;
+}
+h1{
+    color: red !important;
+}
+h2{
+    color: red !important;
+}
+#stats th,td{
+    font-size: 75% !important;
+}
+th{
+    background-color: red ;
+    
+}
+label{
+    color: red !important;
+}
+
+.navbar-custom {
+    background-color: red;
+}
+img.blocks{
+    opacity: 0.3;
+}
+img.indexEgy{
+    opacity: 0.3;
+}
+img.blueF{
+    opacity: 0.1;
+}
+
+

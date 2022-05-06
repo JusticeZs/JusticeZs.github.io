@@ -1,0 +1,50 @@
+.navbar-custom{
+    display: none;
+}
+
+img.printer{
+    width: 60% ;
+    height: auto;
+}
+
+p.printer{
+font-size: 0.8em;
+text-align: justify;
+font-style: italic;
+max-width: 250px;
+min-width: 200px;
+margin-left: -60px;
+margin-top: 30px;
+color: black;
+border:1px; border-style:solid; border-color:black; padding: 0.2em;
+}
+
+img.backg{
+  display: none;
+  visibility: hidden;   
+}
+
+link{
+    display: none;
+}
+
+details{
+    display:none;
+}
+
+div.printer{
+margin-bottom: 150px;
+}
+
+footer{
+    display: none;
+}
+
+video.printer{
+    display: none;
+    visibility: hidden;   
+}
+
+div.printerSarga{
+    margin-top: -750px;
+}
